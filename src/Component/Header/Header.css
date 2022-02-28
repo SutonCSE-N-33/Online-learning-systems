@@ -1,0 +1,30 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color:black;
+    padding:20px;
+}
+.logo a{
+    text-decoration: none;
+    color:white;
+}
+
+.item-li a{
+    text-decoration: none;
+    color:white;
+    margin-right: 20px;
+    padding: 5px;
+}
+.item-li a:hover{
+    background-color: lightgray;
+    color:black;
+    border-radius: 5px;
+}
+.rg-btn{
+    padding:5px 10px;
+    border-radius: 5px;
+    background-color: white;
+    color:black;
+    margin-right: 30px;
+}
